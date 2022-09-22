@@ -1,0 +1,20 @@
+{
+    "short_name": "W.Carneiro",
+    "name": "Waltemar Carneiro",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/WaltemarCarneiro/wc/main/icon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "imgs/icon512.png",
+            "type": "https://raw.githubusercontent.com/WaltemarCarneiro/wc/dbd567ba1af74f31c74aff2ee2937d1ed1fe4caf/icon512.png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/waltemarcarneiro/",
+    "background_color": "#810AD2",
+    "display": "standalone",
+    "theme_color": "#810AD2"
+}
