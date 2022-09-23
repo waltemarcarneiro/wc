@@ -1,6 +1,6 @@
 {
-  "background_color": "#810ad2",
-  "description": "Dê a César o que é de César",
+  "background_color": "#212121",
+  "description": "The Best Love Songs",
   "dir": "ltr",
   "display": "standalone",
   "name": "Waltemar Carneiro",
@@ -8,18 +8,18 @@
   "scope": "/",
   "short_name": "Waltemar App",
   "start_url": "https://waltemarcarneiro.blogspot.com",
-  "theme_color": "#810ad2",
+  "theme_color": "#212121",
   "categories": [],
   "screenshots": [],
   "icons": [
         {
-            "src": "https://docs.google.com/uc?id=1S2DpNwV8B5tR5bbWFUaSwb151tTvXDqd",
+            "src": "https://docs.google.com/uc?id=1ZeH_W-X52Tnsnxi5kMqxf3sMKfpNtQ2a",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "imgs/icon512.png",
-            "type": "https://docs.google.com/uc?id=1--OvHheN432a4Sh5qnZYeu6blCSxi9Af",
+            "src": "https://docs.google.com/uc?id=1xv5gMIzdoaPwiejJhsq7VIXwIrkQ-UBx",
+            "type": "image/png",
             "sizes": "512x512"
         }
     ],
