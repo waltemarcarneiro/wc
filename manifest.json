@@ -1,7 +1,17 @@
 {
-    "short_name": "Waltemar App",
-    "name": "Waltemar Carneiro",
-    "icons": [
+  "background_color": "#810ad2",
+  "description": "Dê a César o que é de César",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Waltemar Carneiro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Waltemar App",
+  "start_url": "https://waltemarcarneiro.blogspot.com",
+  "theme_color": "#810ad2",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
         {
             "src": "https://raw.githubusercontent.com/WaltemarCarneiro/wc/main/icon192.png",
             "type": "image/png",
@@ -13,9 +23,5 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "https://waltemarcarneiro.blogspot.com/",
-    "background_color": "#810AD2",
-    "display": "standalone",
-    "theme_color": "#810AD2"
-    "description": "De a Cesar o que e de Cesar"
-}
+    "shortcuts": []
+    }
