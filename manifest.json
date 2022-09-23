@@ -1,5 +1,5 @@
 {
-  "background_color": "#eeeeee",
+  "background_color": "#121212",
   "description": "The Best Love Songs",
   "dir": "ltr",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "scope": "/",
   "short_name": "Waltemar App",
   "start_url": "https://waltemarcarneiro.blogspot.com",
-  "theme_color": "#212121",
+  "theme_color": "#121212",
   "categories": [],
   "screenshots": [],
   "icons": [
