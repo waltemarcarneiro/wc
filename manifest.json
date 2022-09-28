@@ -9,7 +9,8 @@
   "short_name": "Waltemar",
   "start_url": "https://waltemarcarneiro.blogspot.com/?homescreen=1",
   "theme_color": "#6539FF",
-  "categories": [],
+  "categories": ["entertainment", "music"],
+  "id": ["/?homescreen=1"]
   "screenshots": [],
   "icons": [
         {
