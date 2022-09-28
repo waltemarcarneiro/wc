@@ -17,7 +17,7 @@
             "type": "image/jpg",
             "platform": "narrow",
             "label": "Homescreen do App"
-        },
+        }
         {
             "src": "https://docs.google.com/uc?id=1JA84vAB9xqVLbvvtBnMG2axc19dBC7nf",
             "sizes": "1920x1080",
