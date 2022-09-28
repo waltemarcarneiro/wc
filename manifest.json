@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Waltemar",
-  "start_url": "https://waltemarcarneiro.blogspot.com",
+  "start_url": "https://waltemarcarneiro.blogspot.com/",
   "theme_color": "#6539FF",
   "categories": ["entertainment", "music"],
   "screenshots": [
@@ -18,7 +18,7 @@
             "platform": "narrow",
             "label": "Homescreen of Awesome App"
         }
-  ]
+  ],
   "icons": [
         {
             "src": "https://docs.google.com/uc?id=10lVLNlLkr20KutrtJ-0GdFfY4LGfVmyq",
