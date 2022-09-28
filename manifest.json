@@ -11,7 +11,15 @@
   "theme_color": "#6539FF",
   "categories": ["entertainment", "music"],
   "id": ["/?homescreen=1"]
-  "screenshots": [],
+  "screenshots": [
+        {
+            "src": "https://docs.google.com/uc?id=1tfd3e3Spa3QWNBjF8_XbQ0_6fj0s5pGp",
+            "sizes": "1280x720",
+            "type": "image/jpg",
+            "platform": "narrow",
+            "label": "Homescreen of Awesome App"
+        }
+  ]
   "icons": [
         {
             "src": "https://docs.google.com/uc?id=10lVLNlLkr20KutrtJ-0GdFfY4LGfVmyq",
