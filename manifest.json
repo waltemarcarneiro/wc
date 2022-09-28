@@ -9,7 +9,7 @@
   "short_name": "Waltemar",
   "start_url": "https://waltemarcarneiro.blogspot.com/",
   "theme_color": "#6539FF",
-  "categories": ["entertainment", "music"],
+  "categories": ["entertainment", "music"]
   "screenshots": [
         {
             "src": "https://docs.google.com/uc?id=1tfd3e3Spa3QWNBjF8_XbQ0_6fj0s5pGp",
@@ -18,7 +18,7 @@
             "platform": "narrow",
             "label": "Homescreen of Awesome App"
         }
-  ],
+  ]
   "icons": [
         {
             "src": "https://docs.google.com/uc?id=10lVLNlLkr20KutrtJ-0GdFfY4LGfVmyq",
@@ -30,6 +30,6 @@
             "type": "image/png",
             "sizes": "512x512"
         }
-    ],
+    ]
     "shortcuts": []
     }
