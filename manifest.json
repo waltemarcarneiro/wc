@@ -18,7 +18,21 @@
             "platform": "narrow",
             "label": "Homescreen do App"
         }
- ],
+        {
+            "src": "https://docs.google.com/uc?id=1JA84vAB9xqVLbvvtBnMG2axc19dBC7nf",
+            "sizes": "1920x1080",
+            "type": "image/jpg",
+            "platform": "narrow",
+            "label": "The best love songs"
+        }
+        {
+            "src": "https://docs.google.com/uc?id=1oztiqCEILjpRijKKHnKXnxeMlogtgsCL",
+            "sizes": "1921x1440",
+            "type": "image/jpg",
+            "platform": "narrow",
+            "label": "O toque do amor"
+        }
+  ],
   "icons": [
         {
             "src": "https://docs.google.com/uc?id=10lVLNlLkr20KutrtJ-0GdFfY4LGfVmyq",
