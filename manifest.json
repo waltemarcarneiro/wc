@@ -17,8 +17,8 @@
             "type": "image/jpg",
             "platform": "narrow",
             "label": "Homescreen do App"
-        },
-  ]
+        }
+  ],
   "icons": [
         {
             "src": "https://docs.google.com/uc?id=10lVLNlLkr20KutrtJ-0GdFfY4LGfVmyq",
@@ -31,5 +31,5 @@
             "sizes": "512x512"
         }
   ],
-    "shortcuts": []
+    "shortcuts": [],
     }
