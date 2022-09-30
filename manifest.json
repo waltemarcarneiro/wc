@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "Waltemar Carneiro",
   "orientation": "any",
-  "scope": "https://waltemarcarneiro.blogspot.com",
+  "scope": "https://waltemarcarneiro.blogspot.com/",
   "short_name": "Waltemar Carneiro",
-  "start_url": "https://waltemarcarneiro.blogspot.com",
+  "start_url": "https://waltemarcarneiro.blogspot.com/",
   "theme_color": "#6539FF",
   "categories": ["music", "entertainment"],
   "screenshots": [
