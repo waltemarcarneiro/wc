@@ -10,24 +10,17 @@
   "start_url": "https://waltemarcarneiro.blogspot.com/",
   "theme_color": "#6539FF",
   "categories": ["music", "entertainment"],
-  "screenshots": [
-        {
-            "src": "https://docs.google.com/uc?id=1406MV6Q-CGS7HtjX8Z9SuGini4bsntDr",
-            "sizes": "1280x720",
-            "type": "image/png",
-        }
-  ],
   "icons": [
         {
             "src": "https://docs.google.com/uc?id=1z9OA7Q9CRGMU3Y7WiW9MKT2w0tGCT_x4",
             "type": "image/png",
             "sizes": "512x512"
-        }  
+        },  
         {
             "src": "https://docs.google.com/uc?id=10lVLNlLkr20KutrtJ-0GdFfY4LGfVmyq",
             "type": "image/png",
             "sizes": "192x192"
-        },
+        }
    ],
     "shortcuts": []
     }
