@@ -1,12 +1,15 @@
 {
-    "theme_color": "#ff6600",
-    "background_color": "#f69435",
-    "display": "standalone",
-    "scope": "",
-    "start_url": "https://waltemarcarneiro.blogspot.com/",
-    "name": "Waltemat Carneiro",
-    "short_name": "Waltemar Carneiro",
+    "background_color": "#f1f4f8",
     "description": "The Best Love Songs",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Waltemar Carneiro",
+    "orientation": "any",
+    "scope": "",
+    "short_name": "Waltemar Carneiro",
+    "start_url": "https://waltemarcarneiro.blogspot.com/",
+    "theme_color": "#ff6600",
+    "categories": ["music", "entertainment"],
     "icons": [
         {
             "src": "https://raw.githubusercontent.com/waltemarcarneiro/wc/main/icon-192x192.png",
