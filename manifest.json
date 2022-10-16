@@ -1,12 +1,12 @@
 {
-    "theme_color": "#eeeeee",
-    "background_color": "#eeeeee",
+    "theme_color": "#FFC506",
+    "background_color": "#ffffff",
     "display": "standalone",
     "scope": "",
     "start_url": "https://waltemarcarneiro.blogspot.com/",
-    "name": "LoveSongs App",
-    "short_name": "LoveSongs App",
-    "description": "The Best Love Songs",
+    "name": "Waltemar Carneiro",
+    "short_name": "Waltemar App",
+    "description": "Web Designer",
     "icons": [
         {
             "src": "https://raw.githubusercontent.com/waltemarcarneiro/wc/main/icon-48x48.png",
