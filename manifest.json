@@ -1,6 +1,7 @@
 {
   "theme_color": "#FFC506",
   "background_color": "#ffffff",
+  "orientatiton": "portrait",
   "display": "standalone",
   "scope": "",
   "start_url": "https://waltemarcarneiro.blogspot.com/",
