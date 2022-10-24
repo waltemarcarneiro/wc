@@ -5,10 +5,10 @@
   "display": "standalone",
   "scope": "",
   "lang": "pt-BR",
-  "start_url": "https://waltemarcarneiro.blogspot.com/index.html",
+  "start_url": ".",
   "name": "Waltemar Carneiro",
-  "short_name": "Waltemar App",
-  "description": "Web Designer",
+  "short_name": "WALTEMAR",
+  "description": "WALTEMAR APP",
   "icons": [
     {
         "src": "https://raw.githubusercontent.com/waltemarcarneiro/wc/main/icon-48x48.png",
