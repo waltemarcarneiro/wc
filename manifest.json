@@ -5,7 +5,7 @@
   "display": "standalone",
   "scope": "",
   "lang": "pt-BR",
-  "start_url": ".",
+  "start_url": "/index.html",
   "name": "Waltemar Carneiro",
   "short_name": "WALTEMAR",
   "description": "WALTEMAR APP",
